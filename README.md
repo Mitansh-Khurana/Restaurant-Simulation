@@ -6,7 +6,7 @@ It often gets challenging for restaurants to estimate the food supply for the we
 ## Motivation:
 To approximate how much food a restaurant needs to prepare for the next day, given the number of customers visiting each day and the average time to serve a customer.
 
-## Flow of the Project
+## Structure and Implementation
 ### Simulate Waiters
 Model a waiter (a process) who serves in a restaurant (an environment). Some basic things that waiters do are:
 - Taking orders from customers
